@@ -6,3 +6,15 @@ The dash application can be runned using:
 ```
 python app/app.py
 ```
+
+
+![app.py running in vscode](screenshot/ss1.png)
+Screenshot 1: app.py running in vscode terminal
+
+
+![app.py running in vscode](screenshot/ss2.png)
+Screenshot 2: prediction with default values
+
+
+![app.py running in vscode](screenshot/ss3.png)
+Screenshot 3: prediction with user assigned values
